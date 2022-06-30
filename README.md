@@ -1,6 +1,6 @@
 ## Olá! Como vai?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivia-raniere/)](https://www.linkedin.com/in/vivianerenizia/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivia-raniere/)](https://www.linkedin.com/in/vivian-raniere/) 
 
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Graduação interrompida em Sistemas de Informação (2013 - 2014)
