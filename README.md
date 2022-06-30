@@ -4,7 +4,9 @@
 
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Sistemas de Informação (2013 - 2014 -> Gradução Interrompida)
+
 > Administração (2015 - 2018 -> Graduada em Administração)
+
 > Ciências Contábeis (2019 - Atualmente -> Graduanda em Ciências Contábeis)
 
 **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**:
