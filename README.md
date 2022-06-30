@@ -3,18 +3,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivia-raniere/)](https://www.linkedin.com/in/vivianerenizia/) 
 
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
-> Sistemas de Informação (2013 - 2014 -> Gradução Interrompida)
+> Graduação interrompida em Sistemas de Informação (2013 - 2014)
 
-> Administração (2015 - 2018 -> Graduada em Administração)
+> Bacharel em Administração (2015 - 2018)
 
-> Ciências Contábeis (2019 - Atualmente -> Graduanda em Ciências Contábeis)
+> Bacharelanda em Ciências Contábeis (2019 - Atualmente)
 
 **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**:
-> Pós graduação em Analytics e Business Intelligence (2021 - Atualmente -> Pós graduanda em Analytics e Business Intelligence)
+> Pós graduanda em Analytics e Business Intelligence (2021 - Atualmente)
 
 **Interesses de carreira**:
 > Ciência de dados
+
 > Engenharia de Dados
+
 > Inteligência de Dados
 
 **Status:**
