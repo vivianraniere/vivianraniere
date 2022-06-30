@@ -1,4 +1,4 @@
-## Olá! Como vai? :shipit:
+## Olá! Como vai?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivia-raniere/)](https://www.linkedin.com/in/vivianerenizia/) 
 
